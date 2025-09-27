@@ -39,7 +39,7 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 
 ## 🛠️ Built With
 
-* [Laravel 8](https://laravel.com/)
+* Laravel 10
 * PHP
 * JavaScript
 * MySQL
@@ -50,16 +50,35 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 ## 📸 Screenshots
 
 ### Dashboard & Modules
-
-![Dashboard Screenshot](file-TBDzz7W3ksXTqJzM1kUdjo)
+<a  href="">
+  <img  width="80%"  height="80%"  src="https://ibb.co.com/5X6jNprt"/>
+</a>
 
 ### Customer Information
 
-![Customer Information Screenshot](file-Gmg4oC4cTURHM7sVZwntbe)
+<a  href="">
+  <img  width="80%"  height="80%"  src="https://ibb.co.com/5g8RGtsW"/>
+</a>
 
-### Stock Import
+### Stock
 
-![Stock Import Screenshot](file-YWqEAaHG3dVUpFc954jBxk)
+<a  href="">
+  <img  width="80%"  height="80%"  src="https://ibb.co.com/ccsP3JTt"/>
+</a>
+
+
+### Sales
+
+<a  href="">
+  <img  width="80%"  height="80%"  src="https://ibb.co.com/0jSvK1k5"/>
+</a>
+
+### Payment
+
+<a  href="">
+  <img  width="80%"  height="80%"  src="https://ibb.co.com/M0tf0vc"/>
+</a>
+
 
 ---
 
