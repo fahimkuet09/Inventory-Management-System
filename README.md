@@ -1,36 +1,36 @@
-# 💊 Pharmaceutical Inventory Management System (Laravel)
+#  Pharmaceutical Inventory Management System (Laravel)
 
 A complete **Inventory Management System** built with Laravel, designed for pharmaceutical companies to track stock, manage sales, payments, customer information, and reporting in one centralized platform.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📦 Inventory & Stock Management
+###  Inventory & Stock Management
 
 * Import stock items with **quantity, rate, and total**.
 * Track stock updates, usage, and availability in real time.
 * Manage partial returns and discount entries.
 
-### 💰 Sales & Payments
+###  Sales & Payments
 
 * Record and manage **sales transactions**.
 * Process and monitor **customer payments**.
 * Track expenditure items and financial adjustments.
 
-### 👥 Customer & User Management
+###  Customer & User Management
 
 * Store customer details with **chemist information, address, and mobile number**.
 * Search, add, update, and manage customer records.
 * Manage multiple user roles with different levels of access.
 
-### 📊 Reports & Analytics
+###  Reports & Analytics
 
 * Generate detailed reports: sales, stock, payments, and returns.
 * Filter and view reports by date, user, or transaction type.
 * Centralized dashboard for quick insights and activity tracking.
 
-### 🧑‍🤝‍🧑 Field & Staff Information
+###  Field & Staff Information
 
 * Manage **AM (Area Manager)**, **ME (Medical Executive)**, and **RSM (Regional Sales Manager)** information.
 * Organize team data for streamlined field operations.
