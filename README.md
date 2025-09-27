@@ -82,7 +82,7 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 
 ---
 
-## 📌 Usage
+##  Usage
 
 This system is ideal for **pharmaceutical distributors and companies** that need:
 
