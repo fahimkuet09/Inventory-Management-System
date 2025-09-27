@@ -69,7 +69,7 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 ### Sales
 
 <a  href="">
-  <img src="https://i.ibb.co.com/yn17pKD2/sales.png" alt="sales" border="0"  width="80%"  height="80%" />
+  <img width="80%"  height="80%" src="https://i.ibb.co.com/yn17pKD2/sales.png" alt="sales" />
 </a>
 
 ### Payment
