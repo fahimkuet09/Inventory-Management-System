@@ -37,7 +37,7 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * Laravel 10
 * PHP
