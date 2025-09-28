@@ -47,7 +47,7 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard & Modules
 <a  href="">
@@ -57,25 +57,31 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 ### Customer Information
 
 <a  href="">
-  <img  width="80%"  height="80%"  src="https://ibb.co.com/5g8RGtsW"/>
+  <img  src="http://randox.techsstation.com/screenshots/customer.png" alt= "customer" />
 </a>
 
 ### Stock
 
 <a  href="">
-  <img  width="80%"  height="80%"  src="https://ibb.co.com/ccsP3JTt"/>
+  <img  src="http://randox.techsstation.com/screenshots/stock.png" alt= "stock" />
 </a>
 
 ### Sales
 
 <a  href="">
-  <img width="80%"  height="80%" src="https://i.ibb.co.com/yn17pKD2/sales.png" alt="sales" />
+  <img  src="http://randox.techsstation.com/screenshots/sales.png" alt= "sales" />
 </a>
 
 ### Payment
 
 <a  href="">
-  <img  width="80%"  height="80%"  src="https://ibb.co.com/M0tf0vc"/>
+  <img  src="http://randox.techsstation.com/screenshots/payment.png" alt= "payment" />
+</a>
+
+### Reports
+
+<a  href="">
+  <img  src="http://randox.techsstation.com/screenshots/reports.png" alt= "reports" />
 </a>
 
 
