@@ -51,7 +51,7 @@ A complete **Inventory Management System** built with Laravel, designed for phar
 
 ### Dashboard & Modules
 <a  href="">
-  <img  src="  http://randox.techsstation.com/screenshots/Dashboard.png" alt="Dashboard" />
+  <img  src="http://randox.techsstation.com/screenshots/Dashboard.png" alt="Dashboard" />
 </a>
 
 ### Customer Information
